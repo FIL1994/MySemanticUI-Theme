@@ -1,0 +1,49 @@
+/*******************************
+     User Global Variables
+
+http://learnsemantic.com/developing/customizing.html
+
+@primaryColor   : @blue;
+@secondaryColor : @black;
+@red            : #DB2828;
+@orange         : #FF5722;
+@yellow         : #FBBD08;
+@olive          : #8BC34A;
+@green          : #4CAF50;
+@teal           : #009688;
+@blue           : #2196F3;
+@violet         : #673AB7;
+@purple         : #9C27B0;
+@pink           : #E91E63;
+@brown          : #795548;
+@grey           : #9E9E9E;
+@black          : #070000;
+*******************************/
+@primaryColor   : @green;
+@secondaryColor : @blue;
+@red            : #79131f;
+@orange         : #D63300;
+@yellow         : #CF9A02;
+@olive          : #1C280D;
+@green          : #0d564e;
+@teal           : #0D544C;
+@blue           : #0c3954;
+@violet         : #6D1379;
+@purple         : #4B154A;
+@pink           : #D11B59;
+@brown          : #3a1c08;
+@grey           : #3a3f3f;
+@black          : #080001;
+
+@borderRadius: 0.2em;
+@boxShadow: 0px 3px 15px rgba(0,0,0,0.2);
+@relativeBorderRadius: 0.2em;
+@absoluteBorderRadius: 0.2rem;
+@defaultBorderRadius: @absoluteBorderRadius;
+
+@pageBackground      : #F5F5F5;
+
+@fontFamily: 'Nunito', sans-serif;
+@headerFontStyle: 'Nunito', sans-serif;
+@footerFontStyle: 'Nunito', sans-serif;
+@pageFont: 'Nunito', sans-serif;
